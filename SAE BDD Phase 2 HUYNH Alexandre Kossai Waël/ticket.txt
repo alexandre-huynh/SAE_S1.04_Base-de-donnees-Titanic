@@ -1,0 +1,891 @@
+Braund, Mr. Owen Harris	3	A/5 21171	7.25		S
+Cumings, Mrs. John Bradley (Florence Briggs Thayer)	1	PC 17599	71.2833	C85	C
+Heikkinen, Miss. Laina	3	STON/O2. 3101282	7.925		S
+Futrelle, Mrs. Jacques Heath (Lily May Peel)	1	113803	53.1	C123	S
+Allen, Mr. William Henry	3	373450	8.05		S
+Moran, Mr. James	3	330877	8.4583		Q
+McCarthy, Mr. Timothy J	1	17463	51.8625	E46	S
+Palsson, Master. Gosta Leonard	3	349909	21.075		S
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	3	347742	11.1333		S
+Nasser, Mrs. Nicholas (Adele Achem)	2	237736	30.0708		C
+Sandstrom, Miss. Marguerite Rut	3	PP 9549	16.7	G6	S
+Bonnell, Miss. Elizabeth	1	113783	26.55	C103	S
+Saundercock, Mr. William Henry	3	A/5. 2151	8.05		S
+Andersson, Mr. Anders Johan	3	347082	31.275		S
+Vestrom, Miss. Hulda Amanda Adolfina	3	350406	7.8542		S
+Hewlett, Mrs. (Mary D Kingcome) 	2	248706	16		S
+Rice, Master. Eugene	3	382652	29.125		Q
+Williams, Mr. Charles Eugene	2	244373	13		S
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)	3	345763	18		S
+Masselmani, Mrs. Fatima	3	2649	7.225		C
+Fynney, Mr. Joseph J	2	239865	26		S
+Beesley, Mr. Lawrence	2	248698	13	D56	S
+McGowan, Miss. Anna "Annie"	3	330923	8.0292		Q
+Sloper, Mr. William Thompson	1	113788	35.5	A6	S
+Palsson, Miss. Torborg Danira	3	349909	21.075		S
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)	3	347077	31.3875		S
+Emir, Mr. Farred Chehab	3	2631	7.225		C
+Fortune, Mr. Charles Alexander	1	19950	263	C23 C25 C27	S
+O'Dwyer, Miss. Ellen "Nellie"	3	330959	7.8792		Q
+Todoroff, Mr. Lalio	3	349216	7.8958		S
+Uruchurtu, Don. Manuel E	1	PC 17601	27.7208		C
+Spencer, Mrs. William Augustus (Marie Eugenie)	1	PC 17569	146.5208	B78	C
+Glynn, Miss. Mary Agatha	3	335677	7.75		Q
+Wheadon, Mr. Edward H	2	C.A. 24579	10.5		S
+Meyer, Mr. Edgar Joseph	1	PC 17604	82.1708		C
+Holverson, Mr. Alexander Oskar	1	113789	52		S
+Mamee, Mr. Hanna	3	2677	7.2292		C
+Cann, Mr. Ernest Charles	3	A./5. 2152	8.05		S
+Vander Planke, Miss. Augusta Maria	3	345764	18		S
+Nicola-Yarred, Miss. Jamila	3	2651	11.2417		C
+Ahlin, Mrs. Johan (Johanna Persdotter Larsson)	3	7546	9.475		S
+Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)	2	11668	21		S
+Kraeff, Mr. Theodor	3	349253	7.8958		C
+Laroche, Miss. Simonne Marie Anne Andree	2	SC/Paris 2123	41.5792		C
+Devaney, Miss. Margaret Delia	3	330958	7.8792		Q
+Rogers, Mr. William John	3	S.C./A.4. 23567	8.05		S
+Lennon, Mr. Denis	3	370371	15.5		Q
+O'Driscoll, Miss. Bridget	3	14311	7.75		Q
+Samaan, Mr. Youssef	3	2662	21.6792		C
+Arnold-Franchi, Mrs. Josef (Josefine Franchi)	3	349237	17.8		S
+Panula, Master. Juha Niilo	3	3101295	39.6875		S
+Nosworthy, Mr. Richard Cater	3	A/4. 39886	7.8		S
+Harper, Mrs. Henry Sleeper (Myna Haxtun)	1	PC 17572	76.7292	D33	C
+Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)	2	2926	26		S
+Ostby, Mr. Engelhart Cornelius	1	113509	61.9792	B30	C
+Woolner, Mr. Hugh	1	19947	35.5	C52	S
+Rugg, Miss. Emily	2	C.A. 31026	10.5		S
+Novel, Mr. Mansouer	3	2697	7.2292		C
+West, Miss. Constance Mirium	2	C.A. 34651	27.75		S
+Goodwin, Master. William Frederick	3	CA 2144	46.9		S
+Sirayanian, Mr. Orsen	3	2669	7.2292		C
+Icard, Miss. Amelie	1	113572	80	B28
+Harris, Mr. Henry Birkhardt	1	36973	83.475	C83	S
+Skoog, Master. Harald	3	347088	27.9		S
+Stewart, Mr. Albert A	1	PC 17605	27.7208		C
+Moubarek, Master. Gerios	3	2661	15.2458		C
+Nye, Mrs. (Elizabeth Ramell)	2	C.A. 29395	10.5	F33	S
+Crease, Mr. Ernest James	3	S.P. 3464	8.1583		S
+Andersson, Miss. Erna Alexandra	3	3101281	7.925		S
+Kink, Mr. Vincenz	3	315151	8.6625		S
+Jenkin, Mr. Stephen Curnow	2	C.A. 33111	10.5		S
+Goodwin, Miss. Lillian Amy	3	CA 2144	46.9		S
+Hood, Mr. Ambrose Jr	2	S.O.C. 14879	73.5		S
+Chronopoulos, Mr. Apostolos	3	2680	14.4542		C
+Bing, Mr. Lee	3	1601	56.4958		S
+Moen, Mr. Sigurd Hansen	3	348123	7.65	F G73	S
+Staneff, Mr. Ivan	3	349208	7.8958		S
+Moutal, Mr. Rahamin Haim	3	374746	8.05		S
+Caldwell, Master. Alden Gates	2	248738	29		S
+Dowdell, Miss. Elizabeth	3	364516	12.475		S
+Waelens, Mr. Achille	3	345767	9		S
+Sheerlinck, Mr. Jan Baptist	3	345779	9.5		S
+McDermott, Miss. Brigdet Delia	3	330932	7.7875		Q
+Carrau, Mr. Francisco M	1	113059	47.1		S
+Ilett, Miss. Bertha	2	SO/C 14885	10.5		S
+Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)	3	3101278	15.85		S
+Ford, Mr. William Neal	3	W./C. 6608	34.375		S
+Slocovski, Mr. Selman Francis	3	SOTON/OQ 392086	8.05		S
+Fortune, Miss. Mabel Helen	1	19950	263	C23 C25 C27	S
+Celotti, Mr. Francesco	3	343275	8.05		S
+Christmann, Mr. Emil	3	343276	8.05		S
+Andreasson, Mr. Paul Edvin	3	347466	7.8542		S
+Chaffee, Mr. Herbert Fuller	1	W.E.P. 5734	61.175	E31	S
+Dean, Mr. Bertram Frank	3	C.A. 2315	20.575		S
+Coxon, Mr. Daniel	3	364500	7.25		S
+Shorney, Mr. Charles Joseph	3	374910	8.05		S
+Goldschmidt, Mr. George B	1	PC 17754	34.6542	A5	C
+Greenfield, Mr. William Bertram	1	PC 17759	63.3583	D10 D12	C
+Doling, Mrs. John T (Ada Julia Bone)	2	231919	23		S
+Kantor, Mr. Sinai	2	244367	26		S
+Petranec, Miss. Matilda	3	349245	7.8958		S
+Petroff, Mr. Pastcho ("Pentcho")	3	349215	7.8958		S
+White, Mr. Richard Frasar	1	35281	77.2875	D26	S
+Johansson, Mr. Gustaf Joel	3	7540	8.6542		S
+Gustafsson, Mr. Anders Vilhelm	3	3101276	7.925		S
+Mionoff, Mr. Stoytcho	3	349207	7.8958		S
+Salkjelsvik, Miss. Anna Kristine	3	343120	7.65		S
+Moss, Mr. Albert Johan	3	312991	7.775		S
+Rekic, Mr. Tido	3	349249	7.8958		S
+Moran, Miss. Bertha	3	371110	24.15		Q
+Porter, Mr. Walter Chamberlain	1	110465	52	C110	S
+Zabour, Miss. Hileni	3	2665	14.4542		C
+Barton, Mr. David John	3	324669	8.05		S
+Jussila, Miss. Katriina	3	4136	9.825		S
+Attalah, Miss. Malake	3	2627	14.4583		C
+Pekoniemi, Mr. Edvard	3	STON/O 2. 3101294	7.925		S
+Connors, Mr. Patrick	3	370369	7.75		Q
+Turpin, Mr. William John Robert	2	11668	21		S
+Baxter, Mr. Quigg Edmond	1	PC 17558	247.5208	B58 B60	C
+Andersson, Miss. Ellis Anna Maria	3	347082	31.275		S
+Hickman, Mr. Stanley George	2	S.O.C. 14879	73.5		S
+Moore, Mr. Leonard Charles	3	A4. 54510	8.05		S
+Nasser, Mr. Nicholas	2	237736	30.0708		C
+Webber, Miss. Susan	2	27267	13	E101	S
+White, Mr. Percival Wayland	1	35281	77.2875	D26	S
+Nicola-Yarred, Master. Elias	3	2651	11.2417		C
+McMahon, Mr. Martin	3	370372	7.75		Q
+Madsen, Mr. Fridtjof Arne	3	C 17369	7.1417		S
+Peter, Miss. Anna	3	2668	22.3583	F E69	C
+Ekstrom, Mr. Johan	3	347061	6.975		S
+Drazenoic, Mr. Jozef	3	349241	7.8958		C
+Coelho, Mr. Domingos Fernandeo	3	SOTON/O.Q. 3101307	7.05		S
+Robins, Mrs. Alexander A (Grace Charity Laury)	3	A/5. 3337	14.5		S
+Weisz, Mrs. Leopold (Mathilde Francoise Pede)	2	228414	26		S
+Sobey, Mr. Samuel James Hayden	2	C.A. 29178	13		S
+Richard, Mr. Emile	2	SC/PARIS 2133	15.0458		C
+Newsom, Miss. Helen Monypeny	1	11752	26.2833	D47	S
+Futrelle, Mr. Jacques Heath	1	113803	53.1	C123	S
+Osen, Mr. Olaf Elon	3	7534	9.2167		S
+Giglio, Mr. Victor	1	PC 17593	79.2	B86	C
+Boulos, Mrs. Joseph (Sultana)	3	2678	15.2458		C
+Nysten, Miss. Anna Sofia	3	347081	7.75		S
+Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)	3	STON/O2. 3101279	15.85		S
+Burke, Mr. Jeremiah	3	365222	6.75		Q
+Andrew, Mr. Edgardo Samuel	2	231945	11.5		S
+Nicholls, Mr. Joseph Charles	2	C.A. 33112	36.75		S
+Andersson, Mr. August Edvard ("Wennerstrom")	3	350043	7.7958		S
+Ford, Miss. Robina Maggie "Ruby"	3	W./C. 6608	34.375		S
+Navratil, Mr. Michel ("Louis M Hoffman")	2	230080	26	F2	S
+Byles, Rev. Thomas Roussel Davids	2	244310	13		S
+Bateman, Rev. Robert James	2	S.O.P. 1166	12.525		S
+Pears, Mrs. Thomas (Edith Wearne)	1	113776	66.6	C2	S
+Meo, Mr. Alfonzo	3	A.5. 11206	8.05		S
+van Billiard, Mr. Austin Blyler	3	A/5. 851	14.5		S
+Olsen, Mr. Ole Martin	3	Fa 265302	7.3125		S
+Williams, Mr. Charles Duane	1	PC 17597	61.3792		C
+Gilnagh, Miss. Katherine "Katie"	3	35851	7.7333		Q
+Corn, Mr. Harry	3	SOTON/OQ 392090	8.05		S
+Smiljanic, Mr. Mile	3	315037	8.6625		S
+Sage, Master. Thomas Henry	3	CA. 2343	69.55		S
+Cribb, Mr. John Hatfield	3	371362	16.1		S
+Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne)	2	C.A. 33595	15.75		S
+Bengtsson, Mr. John Viktor	3	347068	7.775		S
+Calic, Mr. Jovo	3	315093	8.6625		S
+Panula, Master. Eino Viljami	3	3101295	39.6875		S
+Goldsmith, Master. Frank John William "Frankie"	3	363291	20.525		S
+Chibnall, Mrs. (Edith Martha Bowerman)	1	113505	55	E33	S
+Skoog, Mrs. William (Anna Bernhardina Karlsson)	3	347088	27.9		S
+Baumann, Mr. John D	1	PC 17318	25.925		S
+Ling, Mr. Lee	3	1601	56.4958		S
+Van der hoef, Mr. Wyckoff	1	111240	33.5	B19	S
+Rice, Master. Arthur	3	382652	29.125		Q
+Johnson, Miss. Eleanor Ileen	3	347742	11.1333		S
+Sivola, Mr. Antti Wilhelm	3	STON/O 2. 3101280	7.925		S
+Smith, Mr. James Clinch	1	17764	30.6958	A7	C
+Klasen, Mr. Klas Albin	3	350404	7.8542		S
+Lefebre, Master. Henry Forbes	3	4133	25.4667		S
+Isham, Miss. Ann Elizabeth	1	PC 17595	28.7125	C49	C
+Hale, Mr. Reginald	2	250653	13		S
+Leonard, Mr. Lionel	3	LINE	0		S
+Sage, Miss. Constance Gladys	3	CA. 2343	69.55		S
+Pernot, Mr. Rene	2	SC/PARIS 2131	15.05		C
+Asplund, Master. Clarence Gustaf Hugo	3	347077	31.3875		S
+Becker, Master. Richard F	2	230136	39	F4	S
+Kink-Heilmann, Miss. Luise Gretchen	3	315153	22.025		S
+Rood, Mr. Hugh Roscoe	1	113767	50	A32	S
+O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)	3	370365	15.5		Q
+Romaine, Mr. Charles Hallace ("Mr C Rolmane")	1	111428	26.55		S
+Bourke, Mr. John	3	364849	15.5		Q
+Turcin, Mr. Stjepan	3	349247	7.8958		S
+Pinsky, Mrs. (Rosa)	2	234604	13		S
+Carbines, Mr. William	2	28424	13		S
+Andersen-Jensen, Miss. Carla Christine Nielsine	3	350046	7.8542		S
+Navratil, Master. Michel M	2	230080	26	F2	S
+Brown, Mrs. James Joseph (Margaret Tobin)	1	PC 17610	27.7208	B4	C
+Lurette, Miss. Elise	1	PC 17569	146.5208	B80	C
+Mernagh, Mr. Robert	3	368703	7.75		Q
+Olsen, Mr. Karl Siegwart Andreas	3	4579	8.4042		S
+Madigan, Miss. Margaret "Maggie"	3	370370	7.75		Q
+Yrois, Miss. Henriette ("Mrs Harbeck")	2	248747	13		S
+Vande Walle, Mr. Nestor Cyriel	3	345770	9.5		S
+Sage, Mr. Frederick	3	CA. 2343	69.55		S
+Johanson, Mr. Jakob Alfred	3	3101264	6.4958		S
+Youseff, Mr. Gerious	3	2628	7.225		C
+Cohen, Mr. Gurshon "Gus"	3	A/5 3540	8.05		S
+Strom, Miss. Telma Matilda	3	347054	10.4625	G6	S
+Backstrom, Mr. Karl Alfred	3	3101278	15.85		S
+Albimona, Mr. Nassef Cassem	3	2699	18.7875		C
+Carr, Miss. Helen "Ellen"	3	367231	7.75		Q
+Blank, Mr. Henry	1	112277	31	A31	C
+Ali, Mr. Ahmed	3	SOTON/O.Q. 3101311	7.05		S
+Cameron, Miss. Clear Annie	2	F.C.C. 13528	21		S
+Perkin, Mr. John Henry	3	A/5 21174	7.25		S
+Givard, Mr. Hans Kristensen	2	250646	13		S
+Kiernan, Mr. Philip	3	367229	7.75		Q
+Newell, Miss. Madeleine	1	35273	113.275	D36	C
+Honkanen, Miss. Eliina	3	STON/O2. 3101283	7.925		S
+Jacobsohn, Mr. Sidney Samuel	2	243847	27		S
+Bazzani, Miss. Albina	1	11813	76.2917	D15	C
+Harris, Mr. Walter	2	W/C 14208	10.5		S
+Sunderland, Mr. Victor Francis	3	SOTON/OQ 392089	8.05		S
+Bracken, Mr. James H	2	220367	13		S
+Green, Mr. George Henry	3	21440	8.05		S
+Nenkoff, Mr. Christo	3	349234	7.8958		S
+Hoyt, Mr. Frederick Maxfield	1	19943	90	C93	S
+Berglund, Mr. Karl Ivar Sven	3	PP 4348	9.35		S
+Mellors, Mr. William John	2	SW/PP 751	10.5		S
+Lovell, Mr. John Hall ("Henry")	3	A/5 21173	7.25		S
+Fahlstrom, Mr. Arne Jonas	2	236171	13		S
+Lefebre, Miss. Mathilde	3	4133	25.4667		S
+Harris, Mrs. Henry Birkhardt (Irene Wallach)	1	36973	83.475	C83	S
+Larsson, Mr. Bengt Edvin	3	347067	7.775		S
+Sjostedt, Mr. Ernst Adolf	2	237442	13.5		S
+Asplund, Miss. Lillian Gertrud	3	347077	31.3875		S
+Leyson, Mr. Robert William Norman	2	C.A. 29566	10.5		S
+Harknett, Miss. Alice Phoebe	3	W./C. 6609	7.55		S
+Hold, Mr. Stephen	2	26707	26		S
+Collyer, Miss. Marjorie "Lottie"	2	C.A. 31921	26.25		S
+Pengelly, Mr. Frederick William	2	28665	10.5		S
+Hunt, Mr. George Henry	2	SCO/W 1585	12.275		S
+Zabour, Miss. Thamine	3	2665	14.4542		C
+Murphy, Miss. Katherine "Kate"	3	367230	15.5		Q
+Coleridge, Mr. Reginald Charles	2	W./C. 14263	10.5		S
+Maenpaa, Mr. Matti Alexanteri	3	STON/O 2. 3101275	7.125		S
+Attalah, Mr. Sleiman	3	2694	7.225		C
+Minahan, Dr. William Edward	1	19928	90	C78	Q
+Lindahl, Miss. Agda Thorilda Viktoria	3	347071	7.775		S
+Hamalainen, Mrs. William (Anna)	2	250649	14.5		S
+Beckwith, Mr. Richard Leonard	1	11751	52.5542	D35	S
+Carter, Rev. Ernest Courtenay	2	244252	26		S
+Reed, Mr. James George	3	362316	7.25		S
+Strom, Mrs. Wilhelm (Elna Matilda Persson)	3	347054	10.4625	G6	S
+Stead, Mr. William Thomas	1	113514	26.55	C87	S
+Lobb, Mr. William Arthur	3	A/5. 3336	16.1		S
+Rosblom, Mrs. Viktor (Helena Wilhelmina)	3	370129	20.2125		S
+Touma, Mrs. Darwis (Hanne Youssef Razi)	3	2650	15.2458		C
+Thorne, Mrs. Gertrude Maybelle	1	PC 17585	79.2		C
+Cherry, Miss. Gladys	1	110152	86.5	B77	S
+Ward, Miss. Anna	1	PC 17755	512.3292		C
+Parrish, Mrs. (Lutie Davis)	2	230433	26		S
+Smith, Mr. Thomas	3	384461	7.75		Q
+Asplund, Master. Edvin Rojj Felix	3	347077	31.3875		S
+Taussig, Mr. Emil	1	110413	79.65	E67	S
+Harrison, Mr. William	1	112059	0	B94	S
+Henry, Miss. Delia	3	382649	7.75		Q
+Reeves, Mr. David	2	C.A. 17248	10.5		S
+Panula, Mr. Ernesti Arvid	3	3101295	39.6875		S
+Persson, Mr. Ernst Ulrik	3	347083	7.775		S
+Graham, Mrs. William Thompson (Edith Junkins)	1	PC 17582	153.4625	C125	S
+Bissette, Miss. Amelia	1	PC 17760	135.6333	C99	S
+Cairns, Mr. Alexander	1	113798	31		S
+Tornquist, Mr. William Henry	3	LINE	0		S
+Mellinger, Mrs. (Elizabeth Anne Maidment)	2	250644	19.5		S
+Natsch, Mr. Charles H	1	PC 17596	29.7	C118	C
+Healy, Miss. Hanora "Nora"	3	370375	7.75		Q
+Andrews, Miss. Kornelia Theodosia	1	13502	77.9583	D7	S
+Lindblom, Miss. Augusta Charlotta	3	347073	7.75		S
+Parkes, Mr. Francis "Frank"	2	239853	0		S
+Rice, Master. Eric	3	382652	29.125		Q
+Abbott, Mrs. Stanton (Rosa Hunt)	3	C.A. 2673	20.25		S
+Duane, Mr. Frank	3	336439	7.75		Q
+Olsson, Mr. Nils Johan Goransson	3	347464	7.8542		S
+de Pelsmaeker, Mr. Alfons	3	345778	9.5		S
+Dorking, Mr. Edward Arthur	3	A/5. 10482	8.05		S
+Smith, Mr. Richard William	1	113056	26	A19	S
+Stankovic, Mr. Ivan	3	349239	8.6625		C
+de Mulder, Mr. Theodore	3	345774	9.5		S
+Naidenoff, Mr. Penko	3	349206	7.8958		S
+Hosono, Mr. Masabumi	2	237798	13		S
+Connolly, Miss. Kate	3	370373	7.75		Q
+Barber, Miss. Ellen "Nellie"	1	19877	78.85		S
+Bishop, Mrs. Dickinson H (Helen Walton)	1	11967	91.0792	B49	C
+Levy, Mr. Rene Jacques	2	SC/Paris 2163	12.875	D	C
+Haas, Miss. Aloisia	3	349236	8.85		S
+Mineff, Mr. Ivan	3	349233	7.8958		S
+Lewy, Mr. Ervin G	1	PC 17612	27.7208		C
+Hanna, Mr. Mansour	3	2693	7.2292		C
+Allison, Miss. Helen Loraine	1	113781	151.55	C22 C26	S
+Saalfeld, Mr. Adolphe	1	19988	30.5	C106	S
+Baxter, Mrs. James (Helene DeLaudeniere Chaput)	1	PC 17558	247.5208	B58 B60	C
+Kelly, Miss. Anna Katherine "Annie Kate"	3	9234	7.75		Q
+McCoy, Mr. Bernard	3	367226	23.25		Q
+Johnson, Mr. William Cahoone Jr	3	LINE	0		S
+Keane, Miss. Nora A	2	226593	12.35	E101	Q
+Williams, Mr. Howard Hugh "Harry"	3	A/5 2466	8.05		S
+Allison, Master. Hudson Trevor	1	113781	151.55	C22 C26	S
+Fleming, Miss. Margaret	1	17421	110.8833		C
+Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)	1	PC 17758	108.9	C65	C
+Abelson, Mr. Samuel	2	P/PP 3381	24		C
+Francatelli, Miss. Laura Mabel	1	PC 17485	56.9292	E36	C
+Hays, Miss. Margaret Bechstein	1	11767	83.1583	C54	C
+Ryerson, Miss. Emily Borie	1	PC 17608	262.375	B57 B59 B63 B66	C
+Lahtinen, Mrs. William (Anna Sylfven)	2	250651	26		S
+Hendekovic, Mr. Ignjac	3	349243	7.8958		S
+Hart, Mr. Benjamin	2	F.C.C. 13529	26.25		S
+Nilsson, Miss. Helmina Josefina	3	347470	7.8542		S
+Kantor, Mrs. Sinai (Miriam Sternin)	2	244367	26		S
+Moraweck, Dr. Ernest	2	29011	14		S
+Wick, Miss. Mary Natalie	1	36928	164.8667	C7	S
+Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)	1	16966	134.5	E34	C
+Dennis, Mr. Samuel	3	A/5 21172	7.25		S
+Danoff, Mr. Yoto	3	349219	7.8958		S
+Slayter, Miss. Hilda Mary	2	234818	12.35		Q
+Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)	2	248738	29		S
+Sage, Mr. George John Jr	3	CA. 2343	69.55		S
+Young, Miss. Marie Grice	1	PC 17760	135.6333	C32	C
+Nysveen, Mr. Johan Hansen	3	345364	6.2375		S
+Ball, Mrs. (Ada E Hall)	2	28551	13	D	S
+Goldsmith, Mrs. Frank John (Emily Alice Brown)	3	363291	20.525		S
+Hippach, Miss. Jean Gertrude	1	111361	57.9792	B18	C
+McCoy, Miss. Agnes	3	367226	23.25		Q
+Partner, Mr. Austen	1	113043	28.5	C124	S
+Graham, Mr. George Edward	1	PC 17582	153.4625	C91	S
+Vander Planke, Mr. Leo Edmondus	3	345764	18		S
+Frauenthal, Mrs. Henry William (Clara Heinsheimer)	1	PC 17611	133.65		S
+Denkoff, Mr. Mitto	3	349225	7.8958		S
+Pears, Mr. Thomas Clinton	1	113776	66.6	C2	S
+Burns, Miss. Elizabeth Margaret	1	16966	134.5	E40	C
+Dahl, Mr. Karl Edwart	3	7598	8.05		S
+Blackwell, Mr. Stephen Weart	1	113784	35.5	T	S
+Navratil, Master. Edmond Roger	2	230080	26	F2	S
+Fortune, Miss. Alice Elizabeth	1	19950	263	C23 C25 C27	S
+Collander, Mr. Erik Gustaf	2	248740	13		S
+Sedgwick, Mr. Charles Frederick Waddington	2	244361	13		S
+Fox, Mr. Stanley Hubert	2	229236	13		S
+Brown, Miss. Amelia "Mildred"	2	248733	13	F33	S
+Smith, Miss. Marion Elsie	2	31418	13		S
+Davison, Mrs. Thomas Henry (Mary E Finck)	3	386525	16.1		S
+Coutts, Master. William Loch "William"	3	C.A. 37671	15.9		S
+Dimic, Mr. Jovan	3	315088	8.6625		S
+Odahl, Mr. Nils Martin	3	7267	9.225		S
+Williams-Lambert, Mr. Fletcher Fellows	1	113510	35	C128	S
+Elias, Mr. Tannous	3	2695	7.2292		C
+Arnold-Franchi, Mr. Josef	3	349237	17.8		S
+Yousif, Mr. Wazli	3	2647	7.225		C
+Vanden Steen, Mr. Leo Peter	3	345783	9.5		S
+Bowerman, Miss. Elsie Edith	1	113505	55	E33	S
+Funk, Miss. Annie Clemmer	2	237671	13		S
+McGovern, Miss. Mary	3	330931	7.8792		Q
+Mockler, Miss. Helen Mary "Ellie"	3	330980	7.8792		Q
+Skoog, Mr. Wilhelm	3	347088	27.9		S
+del Carlo, Mr. Sebastiano	2	SC/PARIS 2167	27.7208		C
+Barbara, Mrs. (Catherine David)	3	2691	14.4542		C
+Asim, Mr. Adola	3	SOTON/O.Q. 3101310	7.05		S
+O'Brien, Mr. Thomas	3	370365	15.5		Q
+Adahl, Mr. Mauritz Nils Martin	3	C 7076	7.25		S
+Warren, Mrs. Frank Manley (Anna Sophia Atkinson)	1	110813	75.25	D37	C
+Moussa, Mrs. (Mantoura Boulos)	3	2626	7.2292		C
+Jermyn, Miss. Annie	3	14313	7.75		Q
+Aubart, Mme. Leontine Pauline	1	PC 17477	69.3	B35	C
+Harder, Mr. George Achilles	1	11765	55.4417	E50	C
+Wiklund, Mr. Jakob Alfred	3	3101267	6.4958		S
+Beavan, Mr. William Thomas	3	323951	8.05		S
+Ringhini, Mr. Sante	1	PC 17760	135.6333		C
+Palsson, Miss. Stina Viola	3	349909	21.075		S
+Meyer, Mrs. Edgar Joseph (Leila Saks)	1	PC 17604	82.1708		C
+Landergren, Miss. Aurora Adelia	3	C 7077	7.25		S
+Widener, Mr. Harry Elkins	1	113503	211.5	C82	C
+Betros, Mr. Tannous	3	2648	4.0125		C
+Gustafsson, Mr. Karl Gideon	3	347069	7.775		S
+Bidois, Miss. Rosalie	1	PC 17757	227.525		C
+Nakid, Miss. Maria ("Mary")	3	2653	15.7417		C
+Tikkanen, Mr. Juho	3	STON/O 2. 3101293	7.925		S
+Holverson, Mrs. Alexander Oskar (Mary Aline Towner)	1	113789	52		S
+Plotcharsky, Mr. Vasil	3	349227	7.8958		S
+Davies, Mr. Charles Henry	2	S.O.C. 14879	73.5		S
+Goodwin, Master. Sidney Leonard	3	CA 2144	46.9		S
+Buss, Miss. Kate	2	27849	13		S
+Sadlier, Mr. Matthew	3	367655	7.7292		Q
+Lehmann, Miss. Bertha	2	SC 1748	12		C
+Carter, Mr. William Ernest	1	113760	120	B96 B98	S
+Jansson, Mr. Carl Olof	3	350034	7.7958		S
+Gustafsson, Mr. Johan Birger	3	3101277	7.925		S
+Newell, Miss. Marjorie	1	35273	113.275	D36	C
+Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)	3	PP 9549	16.7	G6	S
+Johansson, Mr. Erik	3	350052	7.7958		S
+Olsson, Miss. Elina	3	350407	7.8542		S
+McKane, Mr. Peter David	2	28403	26		S
+Pain, Dr. Alfred	2	244278	10.5		S
+Trout, Mrs. William H (Jessie L)	2	240929	12.65		S
+Niskanen, Mr. Juha	3	STON/O 2. 3101289	7.925		S
+Adams, Mr. John	3	341826	8.05		S
+Jussila, Miss. Mari Aina	3	4137	9.825		S
+Hakkarainen, Mr. Pekka Pietari	3	STON/O2. 3101279	15.85		S
+Oreskovic, Miss. Marija	3	315096	8.6625		S
+Gale, Mr. Shadrach	2	28664	21		S
+Widegren, Mr. Carl/Charles Peter	3	347064	7.75		S
+Richards, Master. William Rowe	2	29106	18.75		S
+Birkeland, Mr. Hans Martin Monsen	3	312992	7.775		S
+Lefebre, Miss. Ida	3	4133	25.4667		S
+Sdycoff, Mr. Todor	3	349222	7.8958		S
+Hart, Mr. Henry	3	394140	6.8583		Q
+Minahan, Miss. Daisy E	1	19928	90	C78	Q
+Cunningham, Mr. Alfred Fleming	2	239853	0		S
+Sundman, Mr. Johan Julian	3	STON/O 2. 3101269	7.925		S
+Meek, Mrs. Thomas (Annie Louise Rowley)	3	343095	8.05		S
+Drew, Mrs. James Vivian (Lulu Thorne Christian)	2	28220	32.5		S
+Silven, Miss. Lyyli Karoliina	2	250652	13		S
+Matthews, Mr. William John	2	28228	13		S
+Van Impe, Miss. Catharina	3	345773	24.15		S
+Gheorgheff, Mr. Stanio	3	349254	7.8958		C
+Charters, Mr. David	3	A/5. 13032	7.7333		Q
+Zimmerman, Mr. Leo	3	315082	7.875		S
+Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)	3	347080	14.4		S
+Rosblom, Mr. Viktor Richard	3	370129	20.2125		S
+Wiseman, Mr. Phillippe	3	A/4. 34244	7.25		S
+Clarke, Mrs. Charles V (Ada Maria Winfield)	2	2003	26		S
+Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")	2	250655	26		S
+Flynn, Mr. James	3	364851	7.75		Q
+Pickard, Mr. Berk (Berk Trembisky)	3	SOTON/O.Q. 392078	8.05	E10	S
+Bjornstrom-Steffansson, Mr. Mauritz Hakan	1	110564	26.55	C52	S
+Thorneycroft, Mrs. Percival (Florence Kate White)	3	376564	16.1		S
+Louch, Mrs. Charles Alexander (Alice Adelaide Slow)	2	SC/AH 3085	26		S
+Kallio, Mr. Nikolai Erland	3	STON/O 2. 3101274	7.125		S
+Silvey, Mr. William Baird	1	13507	55.9	E44	S
+Carter, Miss. Lucile Polk	1	113760	120	B96 B98	S
+Ford, Miss. Doolina Margaret "Daisy"	3	W./C. 6608	34.375		S
+Richards, Mrs. Sidney (Emily Hocking)	2	29106	18.75		S
+Fortune, Mr. Mark	1	19950	263	C23 C25 C27	S
+Kvillner, Mr. Johan Henrik Johannesson	2	C.A. 18723	10.5		S
+Hart, Mrs. Benjamin (Esther Ada Bloomfield)	2	F.C.C. 13529	26.25		S
+Hampe, Mr. Leon	3	345769	9.5		S
+Petterson, Mr. Johan Emil	3	347076	7.775		S
+Reynaldo, Ms. Encarnacion	2	230434	13		S
+Johannesen-Bratthammer, Mr. Bernt	3	65306	8.1125		S
+Dodge, Master. Washington	1	33638	81.8583	A34	S
+Mellinger, Miss. Madeleine Violet	2	250644	19.5		S
+Seward, Mr. Frederic Kimber	1	113794	26.55		S
+Baclini, Miss. Marie Catherine	3	2666	19.2583		C
+Peuchen, Major. Arthur Godfrey	1	113786	30.5	C104	S
+West, Mr. Edwy Arthur	2	C.A. 34651	27.75		S
+Hagland, Mr. Ingvald Olai Olsen	3	65303	19.9667		S
+Foreman, Mr. Benjamin Laventall	1	113051	27.75	C111	C
+Goldenberg, Mr. Samuel L	1	17453	89.1042	C92	C
+Peduzzi, Mr. Joseph	3	A/5 2817	8.05		S
+Jalsevac, Mr. Ivan	3	349240	7.8958		C
+Millet, Mr. Francis Davis	1	13509	26.55	E38	S
+Kenyon, Mrs. Frederick R (Marion)	1	17464	51.8625	D21	S
+Toomey, Miss. Ellen	2	F.C.C. 13531	10.5		S
+O'Connor, Mr. Maurice	3	371060	7.75		Q
+Anderson, Mr. Harry	1	19952	26.55	E12	S
+Morley, Mr. William	3	364506	8.05		S
+Gee, Mr. Arthur H	1	111320	38.5	E63	S
+Milling, Mr. Jacob Christian	2	234360	13		S
+Maisner, Mr. Simon	3	A/S 2816	8.05		S
+Goncalves, Mr. Manuel Estanslas	3	SOTON/O.Q. 3101306	7.05		S
+Campbell, Mr. William	2	239853	0		S
+Smart, Mr. John Montgomery	1	113792	26.55		S
+Scanlan, Mr. James	3	36209	7.725		Q
+Baclini, Miss. Helene Barbara	3	2666	19.2583		C
+Keefe, Mr. Arthur	3	323592	7.25		S
+Cacic, Mr. Luka	3	315089	8.6625		S
+West, Mrs. Edwy Arthur (Ada Mary Worth)	2	C.A. 34651	27.75		S
+Jerwan, Mrs. Amin S (Marie Marthe Thuillard)	2	SC/AH Basle 541	13.7917	D	C
+Strandberg, Miss. Ida Sofia	3	7553	9.8375		S
+Clifford, Mr. George Quincy	1	110465	52	A14	S
+Renouf, Mr. Peter Henry	2	31027	21		S
+Braund, Mr. Lewis Richard	3	3460	7.0458		S
+Karlsson, Mr. Nils August	3	350060	7.5208		S
+Hirvonen, Miss. Hildur E	3	3101298	12.2875		S
+Goodwin, Master. Harold Victor	3	CA 2144	46.9		S
+Frost, Mr. Anthony Wood "Archie"	2	239854	0		S
+Rouse, Mr. Richard Henry	3	A/5 3594	8.05		S
+Turkula, Mrs. (Hedwig)	3	4134	9.5875		S
+Bishop, Mr. Dickinson H	1	11967	91.0792	B49	C
+Lefebre, Miss. Jeannie	3	4133	25.4667		S
+Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)	1	19943	90	C93	S
+Kent, Mr. Edward Austin	1	11771	29.7	B37	C
+Somerton, Mr. Francis William	3	A.5. 18509	8.05		S
+Coutts, Master. Eden Leslie "Neville"	3	C.A. 37671	15.9		S
+Hagland, Mr. Konrad Mathias Reiersen	3	65304	19.9667		S
+Windelov, Mr. Einar	3	SOTON/OQ 3101317	7.25		S
+Molson, Mr. Harry Markland	1	113787	30.5	C30	S
+Artagaveytia, Mr. Ramon	1	PC 17609	49.5042		C
+Stanley, Mr. Edward Roland	3	A/4 45380	8.05		S
+Yousseff, Mr. Gerious	3	2627	14.4583		C
+Eustis, Miss. Elizabeth Mussey	1	36947	78.2667	D20	C
+Shellard, Mr. Frederick William	3	C.A. 6212	15.1		S
+Allison, Mrs. Hudson J C (Bessie Waldo Daniels)	1	113781	151.55	C22 C26	S
+Svensson, Mr. Olof	3	350035	7.7958		S
+Calic, Mr. Petar	3	315086	8.6625		S
+Canavan, Miss. Mary	3	364846	7.75		Q
+O'Sullivan, Miss. Bridget Mary	3	330909	7.6292		Q
+Laitinen, Miss. Kristina Sofia	3	4135	9.5875		S
+Maioni, Miss. Roberta	1	110152	86.5	B79	S
+Penasco y Castellana, Mr. Victor de Satode	1	PC 17758	108.9	C65	C
+Quick, Mrs. Frederick Charles (Jane Richards)	2	26360	26		S
+Bradley, Mr. George ("George Arthur Brayton")	1	111427	26.55		S
+Olsen, Mr. Henry Margido	3	C 4001	22.525		S
+Lang, Mr. Fang	3	1601	56.4958		S
+Daly, Mr. Eugene Patrick	3	382651	7.75		Q
+Webber, Mr. James	3	SOTON/OQ 3101316	8.05		S
+McGough, Mr. James Robert	1	PC 17473	26.2875	E25	S
+Rothschild, Mrs. Martin (Elizabeth L. Barrett)	1	PC 17603	59.4		C
+Coleff, Mr. Satio	3	349209	7.4958		S
+Walker, Mr. William Anderson	1	36967	34.0208	D46	S
+Lemore, Mrs. (Amelia Milley)	2	C.A. 34260	10.5	F33	S
+Ryan, Mr. Patrick	3	371110	24.15		Q
+Angle, Mrs. William A (Florence "Mary" Agnes Hughes)	2	226875	26		S
+Pavlovic, Mr. Stefo	3	349242	7.8958		S
+Perreault, Miss. Anne	1	12749	93.5	B73	S
+Vovk, Mr. Janko	3	349252	7.8958		S
+Lahoud, Mr. Sarkis	3	2624	7.225		C
+Hippach, Mrs. Louis Albert (Ida Sophia Fischer)	1	111361	57.9792	B18	C
+Kassem, Mr. Fared	3	2700	7.2292		C
+Farrell, Mr. James	3	367232	7.75		Q
+Ridsdale, Miss. Lucy	2	W./C. 14258	10.5		S
+Farthing, Mr. John	1	PC 17483	221.7792	C95	S
+Salonen, Mr. Johan Werner	3	3101296	7.925		S
+Hocking, Mr. Richard George	2	29104	11.5		S
+Quick, Miss. Phyllis May	2	26360	26		S
+Toufik, Mr. Nakli	3	2641	7.2292		C
+Elias, Mr. Joseph Jr	3	2690	7.2292		C
+Peter, Mrs. Catherine (Catherine Rizk)	3	2668	22.3583		C
+Cacic, Miss. Marija	3	315084	8.6625		S
+Hart, Miss. Eva Miriam	2	F.C.C. 13529	26.25		S
+Butt, Major. Archibald Willingham	1	113050	26.55	B38	S
+LeRoy, Miss. Bertha	1	PC 17761	106.425		C
+Risien, Mr. Samuel Beard	3	364498	14.5		S
+Frolicher, Miss. Hedwig Margaritha	1	13568	49.5	B39	C
+Crosby, Miss. Harriet R	1	WE/P 5735	71	B22	S
+Andersson, Miss. Ingeborg Constanzia	3	347082	31.275		S
+Andersson, Miss. Sigrid Elisabeth	3	347082	31.275		S
+Beane, Mr. Edward	2	2908	26		S
+Douglas, Mr. Walter Donald	1	PC 17761	106.425	C86	C
+Nicholson, Mr. Arthur Ernest	1	693	26		S
+Beane, Mrs. Edward (Ethel Clarke)	2	2908	26		S
+Padro y Manent, Mr. Julian	2	SC/PARIS 2146	13.8625		C
+Goldsmith, Mr. Frank John	3	363291	20.525		S
+Davies, Master. John Morgan Jr	2	C.A. 33112	36.75		S
+Thayer, Mr. John Borland Jr	1	17421	110.8833	C70	C
+Sharp, Mr. Percival James R	2	244358	26		S
+O'Brien, Mr. Timothy	3	330979	7.8292		Q
+Leeni, Mr. Fahim ("Philip Zenni")	3	2620	7.225		C
+Ohman, Miss. Velin	3	347085	7.775		S
+Wright, Mr. George	1	113807	26.55		S
+Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan")	1	11755	39.6	A16	C
+Robbins, Mr. Victor	1	PC 17757	227.525		C
+Taussig, Mrs. Emil (Tillie Mandelbaum)	1	110413	79.65	E67	S
+de Messemaeker, Mrs. Guillaume Joseph (Emma)	3	345572	17.4		S
+Morrow, Mr. Thomas Rowan	3	372622	7.75		Q
+Sivic, Mr. Husein	3	349251	7.8958		S
+Norman, Mr. Robert Douglas	2	218629	13.5		S
+Simmons, Mr. John	3	SOTON/OQ 392082	8.05		S
+Meanwell, Miss. (Marion Ogden)	3	SOTON/O.Q. 392087	8.05		S
+Davies, Mr. Alfred J	3	A/4 48871	24.15		S
+Stoytcheff, Mr. Ilia	3	349205	7.8958		S
+Palsson, Mrs. Nils (Alma Cornelia Berglund)	3	349909	21.075		S
+Doharr, Mr. Tannous	3	2686	7.2292		C
+Jonsson, Mr. Carl	3	350417	7.8542		S
+Harris, Mr. George	2	S.W./PP 752	10.5		S
+Appleton, Mrs. Edward Dale (Charlotte Lamson)	1	11769	51.4792	C101	S
+Flynn, Mr. John Irwin ("Irving")	1	PC 17474	26.3875	E25	S
+Kelly, Miss. Mary	3	14312	7.75		Q
+Rush, Mr. Alfred George John	3	A/4. 20589	8.05		S
+Patchett, Mr. George	3	358585	14.5		S
+Garside, Miss. Ethel	2	243880	13		S
+Silvey, Mrs. William Baird (Alice Munger)	1	13507	55.9	E44	S
+Caram, Mrs. Joseph (Maria Elias)	3	2689	14.4583		C
+Jussila, Mr. Eiriik	3	STON/O 2. 3101286	7.925		S
+Christy, Miss. Julie Rachel	2	237789	30		S
+Thayer, Mrs. John Borland (Marian Longstreth Morris)	1	17421	110.8833	C68	C
+Downton, Mr. William James	2	28403	26		S
+Ross, Mr. John Hugo	1	13049	40.125	A10	C
+Paulner, Mr. Uscher	3	3411	8.7125		C
+Taussig, Miss. Ruth	1	110413	79.65	E68	S
+Jarvis, Mr. John Denzil	2	237565	15		S
+Frolicher-Stehli, Mr. Maxmillian	1	13567	79.2	B41	C
+Gilinski, Mr. Eliezer	3	14973	8.05		S
+Murdlin, Mr. Joseph	3	A./5. 3235	8.05		S
+Rintamaki, Mr. Matti	3	STON/O 2. 3101273	7.125		S
+Stephenson, Mrs. Walter Bertram (Martha Eustis)	1	36947	78.2667	D20	C
+Elsbury, Mr. William James	3	A/5 3902	7.25		S
+Bourke, Miss. Mary	3	364848	7.75		Q
+Chapman, Mr. John Henry	2	SC/AH 29037	26		S
+Van Impe, Mr. Jean Baptiste	3	345773	24.15		S
+Leitch, Miss. Jessie Wills	2	248727	33		S
+Johnson, Mr. Alfred	3	LINE	0		S
+Boulos, Mr. Hanna	3	2664	7.225		C
+Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan")	1	PC 17485	56.9292	A20	C
+Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)	2	243847	27		S
+Slabenoff, Mr. Petco	3	349214	7.8958		S
+Harrington, Mr. Charles H	1	113796	42.4		S
+Torber, Mr. Ernst William	3	364511	8.05		S
+Homer, Mr. Harry ("Mr E Haven")	1	111426	26.55		C
+Lindell, Mr. Edvard Bengtsson	3	349910	15.55		S
+Karaic, Mr. Milan	3	349246	7.8958		S
+Daniel, Mr. Robert Williams	1	113804	30.5		S
+Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)	2	SC/Paris 2123	41.5792		C
+Shutes, Miss. Elizabeth W	1	PC 17582	153.4625	C125	S
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)	3	347082	31.275		S
+Jardin, Mr. Jose Neto	3	SOTON/O.Q. 3101305	7.05		S
+Murphy, Miss. Margaret Jane	3	367230	15.5		Q
+Horgan, Mr. John	3	370377	7.75		Q
+Brocklebank, Mr. William Alfred	3	364512	8.05		S
+Herman, Miss. Alice	2	220845	65		S
+Danbom, Mr. Ernst Gilbert	3	347080	14.4		S
+Lobb, Mrs. William Arthur (Cordelia K Stanlick)	3	A/5. 3336	16.1		S
+Becker, Miss. Marion Louise	2	230136	39	F4	S
+Gavey, Mr. Lawrence	2	31028	10.5		S
+Yasbeck, Mr. Antoni	3	2659	14.4542		C
+Kimball, Mr. Edwin Nelson Jr	1	11753	52.5542	D19	S
+Nakid, Mr. Sahid	3	2653	15.7417		C
+Hansen, Mr. Henry Damsgaard	3	350029	7.8542		S
+Bowen, Mr. David John "Dai"	3	54636	16.1		S
+Sutton, Mr. Frederick	1	36963	32.3208	D50	S
+Kirkland, Rev. Charles Leonard	2	219533	12.35		Q
+Longley, Miss. Gretchen Fiske	1	13502	77.9583	D9	S
+Bostandyeff, Mr. Guentcho	3	349224	7.8958		S
+O'Connell, Mr. Patrick D	3	334912	7.7333		Q
+Barkworth, Mr. Algernon Henry Wilson	1	27042	30	A23	S
+Lundahl, Mr. Johan Svensson	3	347743	7.0542		S
+Stahelin-Maeglin, Dr. Max	1	13214	30.5	B50	C
+Parr, Mr. William Henry Marsh	1	112052	0		S
+Skoog, Miss. Mabel	3	347088	27.9		S
+Davis, Miss. Mary	2	237668	13		S
+Leinonen, Mr. Antti Gustaf	3	STON/O 2. 3101292	7.925		S
+Collyer, Mr. Harvey	2	C.A. 31921	26.25		S
+Panula, Mrs. Juha (Maria Emilia Ojala)	3	3101295	39.6875		S
+Thorneycroft, Mr. Percival	3	376564	16.1		S
+Jensen, Mr. Hans Peder	3	350050	7.8542		S
+Sagesser, Mlle. Emma	1	PC 17477	69.3	B35	C
+Skoog, Miss. Margit Elizabeth	3	347088	27.9		S
+Foo, Mr. Choong	3	1601	56.4958		S
+Baclini, Miss. Eugenie	3	2666	19.2583		C
+Harper, Mr. Henry Sleeper	1	PC 17572	76.7292	D33	C
+Cor, Mr. Liudevit	3	349231	7.8958		S
+Simonius-Blumer, Col. Oberst Alfons	1	13213	35.5	A26	C
+Willey, Mr. Edward	3	S.O./P.P. 751	7.55		S
+Stanley, Miss. Amy Zillah Elsie	3	CA. 2314	7.55		S
+Mitkoff, Mr. Mito	3	349221	7.8958		S
+Doling, Miss. Elsie	2	231919	23		S
+Kalvik, Mr. Johannes Halvorsen	3	8475	8.4333		S
+O'Leary, Miss. Hanora "Norah"	3	330919	7.8292		Q
+Hegarty, Miss. Hanora "Nora"	3	365226	6.75		Q
+Hickman, Mr. Leonard Mark	2	S.O.C. 14879	73.5		S
+Radeff, Mr. Alexander	3	349223	7.8958		S
+Bourke, Mrs. John (Catherine)	3	364849	15.5		Q
+Eitemiller, Mr. George Floyd	2	29751	13		S
+Newell, Mr. Arthur Webster	1	35273	113.275	D48	C
+Frauenthal, Dr. Henry William	1	PC 17611	133.65		S
+Badt, Mr. Mohamed	3	2623	7.225		C
+Colley, Mr. Edward Pomeroy	1	5727	25.5875	E58	S
+Coleff, Mr. Peju	3	349210	7.4958		S
+Lindqvist, Mr. Eino William	3	STON/O 2. 3101285	7.925		S
+Hickman, Mr. Lewis	2	S.O.C. 14879	73.5		S
+Butler, Mr. Reginald Fenton	2	234686	13		S
+Rommetvedt, Mr. Knud Paust	3	312993	7.775		S
+Cook, Mr. Jacob	3	A/5 3536	8.05		S
+Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)	1	19996	52	C126	S
+Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)	2	29750	39		S
+Davidson, Mr. Thornton	1	F.C. 12750	52	B71	S
+Mitchell, Mr. Henry Michael	2	C.A. 24580	10.5		S
+Wilhelms, Mr. Charles	2	244270	13		S
+Watson, Mr. Ennis Hastings	2	239856	0		S
+Edvardsson, Mr. Gustaf Hjalmar	3	349912	7.775		S
+Sawyer, Mr. Frederick Charles	3	342826	8.05		S
+Turja, Miss. Anna Sofia	3	4138	9.8417		S
+Goodwin, Mrs. Frederick (Augusta Tyler)	3	CA 2144	46.9		S
+Cardeza, Mr. Thomas Drake Martinez	1	PC 17755	512.3292	B51 B53 B55	C
+Peters, Miss. Katie	3	330935	8.1375		Q
+Hassab, Mr. Hammad	1	PC 17572	76.7292	D49	C
+Olsvigen, Mr. Thor Anderson	3	6563	9.225		S
+Goodwin, Mr. Charles Edward	3	CA 2144	46.9		S
+Brown, Mr. Thomas William Solomon	2	29750	39		S
+Laroche, Mr. Joseph Philippe Lemercier	2	SC/Paris 2123	41.5792		C
+Panula, Mr. Jaako Arnold	3	3101295	39.6875		S
+Dakic, Mr. Branko	3	349228	10.1708		S
+Fischer, Mr. Eberhard Thelander	3	350036	7.7958		S
+Madill, Miss. Georgette Alexandra	1	24160	211.3375	B5	S
+Dick, Mr. Albert Adrian	1	17474	57	B20	S
+Karun, Miss. Manca	3	349256	13.4167		C
+Lam, Mr. Ali	3	1601	56.4958		S
+Saad, Mr. Khalil	3	2672	7.225		C
+Weir, Col. John	1	113800	26.55		S
+Chapman, Mr. Charles Henry	2	248731	13.5		S
+Kelly, Mr. James	3	363592	8.05		S
+Mullens, Miss. Katherine "Katie"	3	35852	7.7333		Q
+Thayer, Mr. John Borland	1	17421	110.8833	C68	C
+Humblen, Mr. Adolf Mathias Nicolai Olsen	3	348121	7.65	F G63	S
+Astor, Mrs. John Jacob (Madeleine Talmadge Force)	1	PC 17757	227.525	C62 C64	C
+Silverthorne, Mr. Spencer Victor	1	PC 17475	26.2875	E24	S
+Barbara, Miss. Saiide	3	2691	14.4542		C
+Gallagher, Mr. Martin	3	36864	7.7417		Q
+Hansen, Mr. Henrik Juul	3	350025	7.8542		S
+Morley, Mr. Henry Samuel ("Mr Henry Marshall")	2	250655	26		S
+Kelly, Mrs. Florence "Fannie"	2	223596	13.5		S
+Calderhead, Mr. Edward Pennington	1	PC 17476	26.2875	E24	S
+Cleaver, Miss. Alice	1	113781	151.55		S
+Moubarek, Master. Halim Gonios ("William George")	3	2661	15.2458		C
+Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")	1	PC 17482	49.5042	C90	C
+Klaber, Mr. Herman	1	113028	26.55	C124	S
+Taylor, Mr. Elmer Zebley	1	19996	52	C126	S
+Larsson, Mr. August Viktor	3	7545	9.4833		S
+Greenberg, Mr. Samuel	2	250647	13		S
+Soholt, Mr. Peter Andreas Lauritz Andersen	3	348124	7.65	F G73	S
+Endres, Miss. Caroline Louise	1	PC 17757	227.525	C45	C
+Troutt, Miss. Edwina Celia "Winnie"	2	34218	10.5	E101	S
+McEvoy, Mr. Michael	3	36568	15.5		Q
+Johnson, Mr. Malkolm Joackim	3	347062	7.775		S
+Harper, Miss. Annie Jessie "Nina"	2	248727	33		S
+Jensen, Mr. Svend Lauritz	3	350048	7.0542		S
+Gillespie, Mr. William Henry	2	12233	13		S
+Hodges, Mr. Henry Price	2	250643	13		S
+Chambers, Mr. Norman Campbell	1	113806	53.1	E8	S
+Oreskovic, Mr. Luka	3	315094	8.6625		S
+Renouf, Mrs. Peter Henry (Lillian Jefferys)	2	31027	21		S
+Mannion, Miss. Margareth	3	36866	7.7375		Q
+Bryhl, Mr. Kurt Arnold Gottfrid	2	236853	26		S
+Ilmakangas, Miss. Pieta Sofia	3	STON/O2. 3101271	7.925		S
+Allen, Miss. Elisabeth Walton	1	24160	211.3375	B5	S
+Hassan, Mr. Houssein G N	3	2699	18.7875		C
+Knight, Mr. Robert J	2	239855	0		S
+Berriman, Mr. William John	2	28425	13		S
+Troupiansky, Mr. Moses Aaron	2	233639	13		S
+Williams, Mr. Leslie	3	54636	16.1		S
+Ford, Mrs. Edward (Margaret Ann Watson)	3	W./C. 6608	34.375		S
+Lesurer, Mr. Gustave J	1	PC 17755	512.3292	B101	C
+Ivanoff, Mr. Kanio	3	349201	7.8958		S
+Nankoff, Mr. Minko	3	349218	7.8958		S
+Hawksford, Mr. Walter James	1	16988	30	D45	S
+Cavendish, Mr. Tyrell William	1	19877	78.85	C46	S
+Ryerson, Miss. Susan Parker "Suzette"	1	PC 17608	262.375	B57 B59 B63 B66	C
+McNamee, Mr. Neal	3	376566	16.1		S
+Stranden, Mr. Juho	3	STON/O 2. 3101288	7.925		S
+Crosby, Capt. Edward Gifford	1	WE/P 5735	71	B22	S
+Abbott, Mr. Rossmore Edward	3	C.A. 2673	20.25		S
+Sinkkonen, Miss. Anna	2	250648	13		S
+Marvin, Mr. Daniel Warner	1	113773	53.1	D30	S
+Connaghton, Mr. Michael	3	335097	7.75		Q
+Wells, Miss. Joan	2	29103	23		S
+Moor, Master. Meier	3	392096	12.475	E121	S
+Vande Velde, Mr. Johannes Joseph	3	345780	9.5		S
+Jonkoff, Mr. Lalio	3	349204	7.8958		S
+Herman, Mrs. Samuel (Jane Laver)	2	220845	65		S
+Hamalainen, Master. Viljo	2	250649	14.5		S
+Carlsson, Mr. August Sigfrid	3	350042	7.7958		S
+Bailey, Mr. Percy Andrew	2	29108	11.5		S
+Theobald, Mr. Thomas Leonard	3	363294	8.05		S
+Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)	1	110152	86.5	B77	S
+Garfirth, Mr. John	3	358585	14.5		S
+Nirva, Mr. Iisakki Antino Aijo	3	SOTON/O2 3101272	7.125		S
+Barah, Mr. Hanna Assi	3	2663	7.2292		C
+Carter, Mrs. William Ernest (Lucile Polk)	1	113760	120	B96 B98	S
+Eklund, Mr. Hans Linus	3	347074	7.775		S
+Hogeboom, Mrs. John C (Anna Andrews)	1	13502	77.9583	D11	S
+Brewe, Dr. Arthur Jackson	1	112379	39.6		C
+Mangan, Miss. Mary	3	364850	7.75		Q
+Moran, Mr. Daniel J	3	371110	24.15		Q
+Gronnestad, Mr. Daniel Danielsen	3	8471	8.3625		S
+Lievens, Mr. Rene Aime	3	345781	9.5		S
+Jensen, Mr. Niels Peder	3	350047	7.8542		S
+Mack, Mrs. (Mary)	2	S.O./P.P. 3	10.5	E77	S
+Elias, Mr. Dibo	3	2674	7.225		C
+Hocking, Mrs. Elizabeth (Eliza Needs)	2	29105	23		S
+Myhrman, Mr. Pehr Fabian Oliver Malkolm	3	347078	7.75		S
+Tobin, Mr. Roger	3	383121	7.75	F38	Q
+Emanuel, Miss. Virginia Ethel	3	364516	12.475		S
+Kilgannon, Mr. Thomas J	3	36865	7.7375		Q
+Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)	1	24160	211.3375	B3	S
+Ayoub, Miss. Banoura	3	2687	7.2292		C
+Dick, Mrs. Albert Adrian (Vera Gillespie)	1	17474	57	B20	S
+Long, Mr. Milton Clyde	1	113501	30	D6	S
+Johnston, Mr. Andrew G	3	W./C. 6607	23.45		S
+Ali, Mr. William	3	SOTON/O.Q. 3101312	7.05		S
+Harmer, Mr. Abraham (David Lishin)	3	374887	7.25		S
+Sjoblom, Miss. Anna Sofia	3	3101265	7.4958		S
+Rice, Master. George Hugh	3	382652	29.125		Q
+Dean, Master. Bertram Vere	3	C.A. 2315	20.575		S
+Guggenheim, Mr. Benjamin	1	PC 17593	79.2	B82 B84	C
+Keane, Mr. Andrew "Andy"	3	12460	7.75		Q
+Gaskell, Mr. Alfred	2	239865	26		S
+Sage, Miss. Stella Anna	3	CA. 2343	69.55		S
+Hoyt, Mr. William Fisher	1	PC 17600	30.6958		C
+Dantcheff, Mr. Ristiu	3	349203	7.8958		S
+Otter, Mr. Richard	2	28213	13		S
+Leader, Dr. Alice (Farnham)	1	17465	25.9292	D17	S
+Osman, Mrs. Mara	3	349244	8.6833		S
+Ibrahim Shawah, Mr. Yousseff	3	2685	7.2292		C
+Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)	3	345773	24.15		S
+Ponesell, Mr. Martin	2	250647	13		S
+Collyer, Mrs. Harvey (Charlotte Annie Tate)	2	C.A. 31921	26.25		S
+Carter, Master. William Thornton II	1	113760	120	B96 B98	S
+Thomas, Master. Assad Alexander	3	2625	8.5167		C
+Hedman, Mr. Oskar Arvid	3	347089	6.975		S
+Johansson, Mr. Karl Johan	3	347063	7.775		S
+Andrews, Mr. Thomas Jr	1	112050	0	A36	S
+Pettersson, Miss. Ellen Natalia	3	347087	7.775		S
+Meyer, Mr. August	2	248723	13		S
+Chambers, Mrs. Norman Campbell (Bertha Griggs)	1	113806	53.1	E8	S
+Alexander, Mr. William	3	3474	7.8875		S
+Lester, Mr. James	3	A/4 48871	24.15		S
+Slemen, Mr. Richard James	2	28206	10.5		S
+Andersson, Miss. Ebba Iris Alfrida	3	347082	31.275		S
+Tomlin, Mr. Ernest Portage	3	364499	8.05		S
+Fry, Mr. Richard	1	112058	0	B102	S
+Heininen, Miss. Wendla Maria	3	STON/O2. 3101290	7.925		S
+Mallet, Mr. Albert	2	S.C./PARIS 2079	37.0042		C
+Holm, Mr. John Fredrik Alexander	3	C 7075	6.45		S
+Skoog, Master. Karl Thorsten	3	347088	27.9		S
+Hays, Mrs. Charles Melville (Clara Jennings Gregg)	1	12749	93.5	B69	S
+Lulic, Mr. Nikola	3	315098	8.6625		S
+Reuchlin, Jonkheer. John George	1	19972	0		S
+Moor, Mrs. (Beila)	3	392096	12.475	E121	S
+Panula, Master. Urho Abraham	3	3101295	39.6875		S
+Flynn, Mr. John	3	368323	6.95		Q
+Lam, Mr. Len	3	1601	56.4958		S
+Mallet, Master. Andre	2	S.C./PARIS 2079	37.0042		C
+McCormack, Mr. Thomas Joseph	3	367228	7.75		Q
+Stone, Mrs. George Nelson (Martha Evelyn)	1	113572	80	B28
+Yasbeck, Mrs. Antoni (Selini Alexander)	3	2659	14.4542		C
+Richards, Master. George Sibley	2	29106	18.75		S
+Saad, Mr. Amin	3	2671	7.2292		C
+Augustsson, Mr. Albert	3	347468	7.8542		S
+Allum, Mr. Owen George	3	2223	8.3		S
+Compton, Miss. Sara Rebecca	1	PC 17756	83.1583	E49	C
+Pasic, Mr. Jakob	3	315097	8.6625		S
+Sirota, Mr. Maurice	3	392092	8.05		S
+Chip, Mr. Chang	3	1601	56.4958		S
+Marechal, Mr. Pierre	1	11774	29.7	C47	C
+Alhomaki, Mr. Ilmari Rudolf	3	SOTON/O2 3101287	7.925		S
+Mudd, Mr. Thomas Charles	2	S.O./P.P. 3	10.5		S
+Serepeca, Miss. Augusta	1	113798	31		C
+Lemberopolous, Mr. Peter L	3	2683	6.4375		C
+Culumovic, Mr. Jeso	3	315090	8.6625		S
+Abbing, Mr. Anthony	3	C.A. 5547	7.55		S
+Sage, Mr. Douglas Bullen	3	CA. 2343	69.55		S
+Markoff, Mr. Marin	3	349213	7.8958		C
+Harper, Rev. John	2	248727	33		S
+Goldenberg, Mrs. Samuel L (Edwiga Grabowska)	1	17453	89.1042	C92	C
+Andersson, Master. Sigvard Harald Elias	3	347082	31.275		S
+Svensson, Mr. Johan	3	347060	7.775		S
+Boulos, Miss. Nourelain	3	2678	15.2458		C
+Lines, Miss. Mary Conover	1	PC 17592	39.4	D28	S
+Carter, Mrs. Ernest Courtenay (Lilian Hughes)	2	244252	26		S
+Aks, Mrs. Sam (Leah Rosen)	3	392091	9.35		S
+Wick, Mrs. George Dennick (Mary Hitchcock)	1	36928	164.8667		S
+Daly, Mr. Peter Denis 	1	113055	26.55	E17	S
+Baclini, Mrs. Solomon (Latifa Qurban)	3	2666	19.2583		C
+Razi, Mr. Raihed	3	2629	7.2292		C
+Hansen, Mr. Claus Peter	3	350026	14.1083		S
+Giles, Mr. Frederick Edward	2	28134	11.5		S
+Swift, Mrs. Frederick Joel (Margaret Welles Barron)	1	17466	25.9292	D17	S
+Sage, Miss. Dorothy Edith "Dolly"	3	CA. 2343	69.55		S
+Gill, Mr. John William	2	233866	13		S
+Bystrom, Mrs. (Karolina)	2	236852	13		S
+Duran y More, Miss. Asuncion	2	SC/PARIS 2149	13.8583		C
+Roebling, Mr. Washington Augustus II	1	PC 17590	50.4958	A24	S
+van Melkebeke, Mr. Philemon	3	345777	9.5		S
+Johnson, Master. Harold Theodor	3	347742	11.1333		S
+Balkic, Mr. Cerin	3	349248	7.8958		S
+Beckwith, Mrs. Richard Leonard (Sallie Monypeny)	1	11751	52.5542	D35	S
+Carlsson, Mr. Frans Olof	1	695	5	B51 B53 B55	S
+Vander Cruyssen, Mr. Victor	3	345765	9		S
+Abelson, Mrs. Samuel (Hannah Wizosky)	2	P/PP 3381	24		C
+Najib, Miss. Adele Kiamie "Jane"	3	2667	7.225		C
+Gustafsson, Mr. Alfred Ossian	3	7534	9.8458		S
+Petroff, Mr. Nedelio	3	349212	7.8958		S
+Laleff, Mr. Kristo	3	349217	7.8958		S
+Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)	1	11767	83.1583	C50	C
+Shelley, Mrs. William (Imanita Parrish Hall)	2	230433	26		S
+Markun, Mr. Johann	3	349257	7.8958		S
+Dahlberg, Miss. Gerda Ulrika	3	7552	10.5167		S
+Banfield, Mr. Frederick James	2	C.A./SOTON 34068	10.5		S
+Sutehall, Mr. Henry Jr	3	SOTON/OQ 392076	7.05		S
+Rice, Mrs. William (Margaret Norton)	3	382652	29.125		Q
+Montvila, Rev. Juozas	2	211536	13		S
+Graham, Miss. Margaret Edith	1	112053	30	B42	S
+Johnston, Miss. Catherine Helen "Carrie"	3	W./C. 6607	23.45		S
+Behr, Mr. Karl Howell	1	111369	30	C148	C
+Dooley, Mr. Patrick	3	370376	7.75		Q
